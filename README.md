@@ -1,2 +1,2 @@
-# System-Info
+# System Info
 Monitor your system
